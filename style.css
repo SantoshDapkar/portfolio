@@ -197,7 +197,7 @@ nav a:hover{
     filter: brightness(0) saturate(100%) invert(77%) sepia(35%) saturate(6208%) hue-rotate(145deg) brightness(104%) contrast(108%);
 }
 .git img{
-    filter: brightness(0) saturate(100%) invert(15%) sepia(63%) saturate(6639%) hue-rotate(358deg) brightness(107%) contrast(96%);
+    filter: brightness(0) saturate(100%) invert(15%) sepia(63%) saturate(6639%) hue-rotate(358deg) brightness(104%) contrast(0%);
 }
 
 .mdb img{
@@ -385,7 +385,7 @@ nav a:hover{
 
     .main-container {
         max-width: 1400px;
-        gap: 60px;
+        gap: 100px;
     }
 
     nav a {
